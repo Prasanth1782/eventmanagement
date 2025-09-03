@@ -77,7 +77,7 @@ event-management-system/
 ├── README.md # Project documentation
 
 ```
-
+![image_alt](https://github.com/Prasanth1782/eventmanagement/blob/e80e41bcab4a345a1adcc3de1c18ab8e8806af67/adminDashboard.png)
 
 
 ---
