@@ -77,7 +77,20 @@ event-management-system/
 ├── README.md # Project documentation
 
 ```
-![image_alt](https://github.com/Prasanth1782/eventmanagement/blob/e80e41bcab4a345a1adcc3de1c18ab8e8806af67/adminDashboard.png)
+## 📸 Screenshots
+
+### 🔹 Home Page
+![Home Page](docs/Images/homePage.png)
+
+### 🔹 Login Page
+![Login Page](docs/Images/loginPage.png)
+
+### 🔹 User Dashboard
+![User Dashboard](docs/Images/userDashboard.png)
+
+### 🔹 Admin Dashboard
+![Admin Dashboard](docs/Images/adminDashboard.png)
+
 
 
 ---
@@ -85,6 +98,7 @@ event-management-system/
 
 
 🏆 Results
+
 Successfully developed a centralized platform for managing institutional events.
 
 Reduced manual registration overhead by 70%.
@@ -103,10 +117,12 @@ Mobile app version.
 ---
 👨‍💻 Contributors
 
+Tuta Prasanth
+
 Mercy Sikhinam
 
 Madira Srilatha
 
 Mohan Vudumula
 
-Tuta Prasanth
+
